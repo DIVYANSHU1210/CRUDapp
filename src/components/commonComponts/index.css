@@ -1,0 +1,25 @@
+.custom-input{
+    background-color: transparent;
+    padding: 1rem;
+    border: white solid .5px;
+    border-radius: 10px;
+    width: 20rem;
+    color: white;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+.custom-btn{
+    padding: .5rem;
+    width: 10rem;
+    margin: 1rem;
+    background-color: rgb(6, 99, 180);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.custom-btn:hover{
+    background-color: rgb(4, 59, 108);
+}
